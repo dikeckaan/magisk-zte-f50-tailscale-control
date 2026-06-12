@@ -2,5 +2,6 @@
     "version": "v1.0.1",
     "versionCode": 2,
     "zipUrl": "https://github.com/dikeckaan/magisk-zte-f50-tailscale-control/releases/download/v1.0.1/tailscale-control-v1.0.1.zip",
+    "sha256": "8d0f55032ec6db4be18c273c4d85fda9c0caac455f384089a1f6eb63c435b0f4",
     "changelog": "https://raw.githubusercontent.com/dikeckaan/magisk-zte-f50-tailscale-control/main/CHANGELOG.md"
 }
